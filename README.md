@@ -6,7 +6,7 @@
 * CSS <br>
 * JS
 ## Installation
- * Download the .html file, .js file and .css file images on your desktop.
+ * Download the .html file, .js file and .css file on your desktop.
  * Open these files in the visual studio code.
  * To run this project open a .html file on your browser.
  ## License
